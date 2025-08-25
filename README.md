@@ -18,7 +18,7 @@ It was designed and simulated as part of the course **“컴퓨터를 이용한 
 ---
 
 ## 📑 Documentation
-- **Schematic**: [TEA2025_Amp.pdf](./docs/TEA2025_Amp.pdf)
+- **Schematic**: [TEA2025_Amp.pdf](./docs/images/TEA2025.pdf)
 - **HW README**: Detailed explanation of circuit components, design choices, and operation principle (see `/hardware/README.md`)
 
 ---
