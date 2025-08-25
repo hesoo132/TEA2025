@@ -4,7 +4,8 @@
 This project implements a **stereo audio amplifier circuit** based on the **TEA2025 IC**.  
 It takes low-level audio input signals (e.g., from a smartphone or MP3 player) and amplifies them to drive external speakers.  
 The design was created as part of the course **“컴퓨터를 이용한 회로 설계 (15주차 과제)”**.
-![Schematic](docs/images/TEA2025.pdf)
+
+![Circuit Schematic](docs/images/TEA2025-schematic.png)
 ---
 
 ## 🔧 Hardware Features
@@ -22,7 +23,7 @@ The design was created as part of the course **“컴퓨터를 이용한 회로 
 ---
 
 ## 📸 Hardware Overview
-| Schematic | PCB Preview |
+| PCB preview | PCB Preview |
 |-----------|-------------|
 | ![Schematic](docs/images/TEA2025-F.png) | ![PCB](docs/images/TEA2025-B.png) |
 
