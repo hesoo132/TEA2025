@@ -1,0 +1,18 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Mon Jun 09 18:06:23 2025
+\t (00:00:03)         Host=PC User=hesue Pid=25864 CPUs=16
+\t (00:00:03) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Database opened: C:/Users/hesue/Desktop/컴퓨터를 이용한 회로 설계 15주차 과제 TEA2025 PCB 전자공학과 20201435 최희수/TEA2025.brd
+\i (00:00:07) trapsize 6007
+\i (00:00:07) trapsize 5897
+\i (00:00:07) trapsize 6026
+\i (00:00:07) trapsize 5224
+\i (00:00:07) trapsize 5224
+\i (00:00:07) generaledit 
+\i (00:00:10) open 
+\i (00:00:19) fillin "C:\Users\hesue\Desktop\컴퓨터를 이용한 회로 설계 15주차 과제 LED_Winker PCB 전자공학과 20201435 최희수\LED_W.brd"
+\i (00:00:19) cd "C:\Users\hesue\Desktop\컴퓨터를 이용한 회로 설계 15주차 과제 LED_Winker PCB 전자공학과 20201435 최희수"
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 6598
+\t (00:00:19)     Journal end - Mon Jun 09 18:06:39 2025

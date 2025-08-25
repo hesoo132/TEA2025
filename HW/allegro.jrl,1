@@ -1,0 +1,524 @@
+\t (00:00:32) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:32)     Journal start - Mon Jun 09 15:03:08 2025
+\t (00:00:32)         Host=PC User=hesue Pid=5664 CPUs=16
+\t (00:00:32) 
+\d (00:00:32) Database opened: C:/Users/hesue/Desktop/컴퓨터를 이용한 회로 설계 15주차 과제 TEA2025 PCB 전자공학과 20201435 최희수/TEA2025.brd
+\i (00:00:32) generaledit 
+\i (00:02:20) prmed 
+\i (00:02:24) setwindow form.prmedit
+\i (00:02:24) FORM prmedit design  
+\i (00:02:27) FORM prmedit size A4 
+\i (00:02:37) FORM prmedit x -80.0000 
+\i (00:02:42) FORM prmedit y -80.0000 
+\i (00:02:42) FORM prmedit text  
+\i (00:02:45) FORM prmedit text_justification Center 
+\i (00:02:50) FORM prmedit text_block 5 
+\i (00:02:51) FORM prmedit text_setup_button  
+\i (00:02:56) setwindow form.textblock
+\i (00:02:56) FORM textblock add  
+\i (00:02:58) FORM textblock nextname1 width 3.0000 
+\i (00:03:01) FORM textblock nextname1 height 4.0000 
+\i (00:03:03) FORM textblock nextname1 line_spacing 4.0000 
+\i (00:03:06) FORM textblock nextname1 photoplot_width 0.5000 
+\i (00:03:12) FORM textblock nextname1 character_spacing 0.7000 
+\i (00:03:12) FORM textblock done  
+\i (00:03:15) setwindow form.prmedit
+\i (00:03:15) FORM prmedit done  
+\i (00:03:15) setwindow pcb
+\i (00:03:15) trapsize 5224
+\i (00:03:15) generaledit 
+\i (00:03:34) shape edit boundary 
+\i (00:04:18) prmed 
+\i (00:04:21) setwindow form.prmedit
+\i (00:04:21) FORM prmedit shapes  
+\i (00:04:23) FORM prmedit dynshp_button  
+\i (00:04:26) setwindow form.dyn_xshape
+\i (00:04:26) FORM dyn_xshape void_controls  
+\i (00:04:35) FORM dyn_xshape thermal_relief_connects  
+\i (00:04:43) FORM dyn_xshape min_thru_pin_connects 1 
+\i (00:04:43) FORM dyn_xshape therm_fixed_value_box YES 
+\i (00:04:47) FORM dyn_xshape therm_fixed_value 0.5 
+\i (00:04:47) FORM dyn_xshape use_xhatch_therm_width YES 
+\i (00:04:49) FORM dyn_xshape use_xhatch_therm_width NO 
+\i (00:04:51) FORM dyn_xshape done  
+\i (00:04:53) setwindow form.prmedit
+\i (00:04:53) FORM prmedit done  
+\i (00:04:53) setwindow pcb
+\i (00:04:53) generaledit 
+\i (00:05:01) define grid 
+\t (00:05:01) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:05:01) generaledit 
+\i (00:05:06) setwindow form.grid
+\i (00:05:06) FORM grid non_etch non_etch_x_grids 0.5 
+\i (00:05:08) FORM grid non_etch non_etch_y_grids 0.5 
+\i (00:05:12) FORM grid done  
+\i (00:05:18) setwindow pcb
+\i (00:05:18) xsection 
+   (00:05:18) Loading cmds.cxt 
+   (00:05:18) Loading floor.cxt 
+   (00:05:18) Loading skillExt.cxt 
+   (00:05:18) Loading axlcore.cxt 
+\i (00:05:24) setwindow form.fplyrstack
+\i (00:05:24) FORM fplyrstack done  
+\i (00:05:24) setwindow pcb
+\i (00:05:24) generaledit 
+\i (02:42:56) zoom out 1 
+\i (02:42:56) setwindow pcb
+\i (02:42:56) zoom out 387.1265 411.7440
+\i (02:42:56) trapsize 10449
+\i (02:42:56) zoom in 1 
+\i (02:42:56) setwindow pcb
+\i (02:42:56) zoom in 387.1264 411.7439
+\i (02:42:56) trapsize 5224
+\i (02:42:57) roam start
+\i (02:42:57) roam x 48
+\i (02:42:57) roam y -16
+\i (02:42:57) roam x 16
+\i (02:42:57) roam x -16
+\i (02:42:57) roam x -32
+\i (02:42:57) roam x -48
+\i (02:42:57) roam x -32
+\i (02:42:58) roam x -16
+\i (02:42:58) roam y 32
+\i (02:42:58) roam y 16
+\i (02:42:58) roam y -16
+\i (02:42:58) roam y -16
+\i (02:42:59) roam end
+\i (02:44:51) xsection 
+\i (02:44:54) setwindow form.fplyrstack
+\i (02:44:54) FORM fplyrstack cancel  
+\i (02:44:54) setwindow pcb
+\i (02:44:54) generaledit 
+\i (02:45:23) color192 
+\i (02:45:23) setwindow cvf.dialog
+\i (02:45:23) cvf layer_mode
+\i (02:45:23) setwindow pcb
+\i (02:45:23) generaledit 
+\i (02:46:10) setwindow cvf.dialog
+\i (02:46:10) cvf layer_tree_item 'Board Geometry'
+\i (02:46:13) cvf layer_tree_item 'Manufacturing'
+\i (02:46:39) cvf cancel
+\i (02:46:52) setwindow pcb
+\i (02:46:52) unrats all 
+\i (02:46:52) generaledit 
+\i (02:46:53) rats all 
+\i (02:46:53) generaledit 
+\i (02:47:18) color192 
+\i (02:47:18) setwindow cvf.dialog
+\i (02:47:18) cvf layer_mode
+\i (02:47:18) setwindow pcb
+\i (02:47:18) generaledit 
+\i (02:47:33) setwindow cvf.dialog
+\i (02:47:33) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (02:47:35) cvf layer_tree_item 'Drc' 'Conductor'
+\i (02:47:35) cvf layer_tree_item 'Pin' 'Conductor'
+\i (02:47:35) cvf layer_tree_item 'Etch' 'Conductor'
+\i (02:47:36) cvf layer_tree_item 'Anti Etch' 'Conductor'
+\i (02:47:36) cvf layer_tree_item 'Boundary' 'Conductor'
+\i (02:47:37) cvf layer_tree_item 'Cavity' 'Conductor'
+\i (02:47:38) cvf layer_tree_item 'Drc' 'Non-Conductor'
+\i (02:47:38) cvf layer_tree_item 'Pin' 'Non-Conductor'
+\i (02:47:39) cvf layer_tree_item 'Anti Etch' 'Non-Conductor'
+\i (02:47:40) cvf layer_tree_item 'Drc' 'Non-Conductor'
+\i (02:47:40) cvf layer_tree_item 'Pin' 'Non-Conductor'
+\i (02:47:42) cvf layer_tree_item 'Boundary' 'Non-Conductor'
+\i (02:47:42) cvf layer_tree_item 'Anti Etch' 'Non-Conductor'
+\i (02:47:43) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (02:47:46) cvf layer_tree_item 'Route KeepOut' 'Areas'
+\i (02:47:46) cvf layer_tree_item 'Via KeepOut' 'Areas'
+\i (02:47:47) cvf layer_tree_item 'Package KeepIn' 'Areas'
+\i (02:47:48) cvf layer_tree_item 'Package KeepOut' 'Areas'
+\i (02:47:50) cvf layer_tree_item 'Board Geometry'
+\i (02:47:53) cvf layer_tree_item 'Package Geometry'
+\i (02:47:59) cvf layers_visible package_geometry/silkscreen_top FALSE
+\i (02:48:00) cvf layers_visible package_geometry/silkscreen_bottom FALSE
+\i (02:48:03) cvf okay
+\i (02:48:04) setwindow pcb
+\i (02:48:04) zoom in 1 
+\i (02:48:04) setwindow pcb
+\i (02:48:04) zoom in 373.2671 392.7017
+\i (02:48:04) trapsize 2612
+\i (02:48:04) zoom in 1 
+\i (02:48:04) setwindow pcb
+\i (02:48:04) zoom in 374.9390 392.0225
+\i (02:48:04) trapsize 1306
+\i (02:48:05) zoom out 1 
+\i (02:48:05) setwindow pcb
+\i (02:48:05) zoom out 375.1741 392.2054
+\i (02:48:05) trapsize 2612
+\i (02:48:05) zoom out 1 
+\i (02:48:05) setwindow pcb
+\i (02:48:05) zoom out 375.1742 392.2053
+\i (02:48:05) trapsize 5224
+\i (02:48:16) color192 
+\i (02:48:16) setwindow cvf.dialog
+\i (02:48:16) cvf layer_mode
+\i (02:48:16) setwindow pcb
+\i (02:48:16) generaledit 
+\i (02:48:19) setwindow cvf.dialog
+\i (02:48:19) cvf layer_tree_item 'Areas'
+\i (02:48:20) cvf layer_tree_item 'Board Geometry'
+\i (02:48:24) cvf layers_visible board_geometry/silkscreen_top FALSE
+\i (02:48:24) cvf layers_visible board_geometry/silkscreen_bottom FALSE
+\i (02:48:26) cvf apply
+\i (02:48:29) setwindow pcb
+\i (02:48:29) zoom in 1 
+\i (02:48:29) setwindow pcb
+\i (02:48:29) zoom in 392.7280 392.3099
+\i (02:48:29) trapsize 2612
+\i (02:48:31) setwindow cvf.dialog
+\i (02:48:31) cvf layers_visible board_geometry/silkscreen_bottom TRUE
+\i (02:48:31) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (02:48:32) cvf apply
+\i (02:48:35) cvf layers_visible board_geometry/silkscreen_bottom FALSE
+\i (02:48:36) cvf layers_visible board_geometry/silkscreen_top FALSE
+\i (02:48:37) cvf apply
+\i (02:48:39) setwindow pcb
+\i (02:48:39) zoom out 1 
+\i (02:48:39) setwindow pcb
+\i (02:48:39) zoom out 398.8928 388.7573
+\i (02:48:39) trapsize 5224
+\i (02:48:41) setwindow cvf.dialog
+\i (02:48:41) cvf cancel
+\i (02:48:42) setwindow pcb
+\i (02:48:42) pick grid 424.7012 436.6126
+\t (02:48:42) last pick:  424.8150  436.8800
+\i (02:48:43) drag_start grid 424.4922 439.9562
+\i (02:48:43) move 
+\t (02:48:43) last pick:  424.1800  440.0550
+\t (02:48:43) Element has no origin, using pick.
+\t (02:48:43) Pick new location for the element(s).
+\i (02:48:43) zoom out 1 
+\i (02:48:43) setwindow pcb
+\i (02:48:43) zoom out 470.9892 432.4331
+\i (02:48:43) trapsize 10449
+\i (02:48:43) zoom out 1 
+\i (02:48:43) setwindow pcb
+\i (02:48:43) zoom out 471.6161 431.8062
+\i (02:48:43) trapsize 20898
+\i (02:48:44) drag_stop grid 515.1613 442.4383
+\i (02:48:44) generaledit 
+\i (02:48:44) zoom in 1 
+\i (02:48:44) setwindow pcb
+\i (02:48:44) zoom in 453.3046 439.9306
+\i (02:48:44) trapsize 10449
+\i (02:48:45) zoom in 1 
+\i (02:48:45) setwindow pcb
+\i (02:48:45) zoom in 446.1994 439.9306
+\i (02:48:45) trapsize 5224
+\i (02:48:45) drag_start grid 420.8090 440.2441
+\i (02:48:45) move 
+\t (02:48:46) last pick:  421.0050  440.0550
+\t (02:48:46) Element has no origin, using pick.
+\t (02:48:46) Pick new location for the element(s).
+\i (02:48:46) drag_stop grid 440.9751 427.4967
+\i (02:48:46) generaledit 
+\i (02:48:47) undo 
+\i (02:48:47) trapsize 5224
+\i (02:48:47) generaledit 
+\i (02:48:48) pick grid 421.4359 439.3037
+\t (02:48:48) last pick:  421.6400  439.4200
+\i (02:48:49) drag_start grid 419.0327 439.7217
+\i (02:48:49) move 
+\t (02:48:49) last pick:  419.1000  439.4200
+\t (02:48:49) Element has no origin, using pick.
+\t (02:48:49) Pick new location for the element(s).
+\i (02:48:49) zoom out 1 
+\i (02:48:49) setwindow pcb
+\i (02:48:49) zoom out 476.9188 429.3774
+\i (02:48:49) trapsize 10449
+\i (02:48:51) drag_stop grid 511.1907 435.0198
+\i (02:48:51) generaledit 
+\i (02:48:51) zoom in 1 
+\i (02:48:51) setwindow pcb
+\i (02:48:51) zoom in 420.0776 428.9595
+\i (02:48:51) trapsize 5224
+\i (02:48:51) zoom in 1 
+\i (02:48:51) setwindow pcb
+\i (02:48:51) zoom in 420.0776 428.7506
+\i (02:48:51) trapsize 2612
+\i (02:48:51) zoom out 1 
+\i (02:48:51) setwindow pcb
+\i (02:48:51) zoom out 420.1299 428.2282
+\i (02:48:51) trapsize 5224
+\i (02:48:53) undo 
+\i (02:48:53) trapsize 5224
+\i (02:48:53) generaledit 
+\i (02:48:53) undo 
+\i (02:48:53) trapsize 5224
+\i (02:48:53) generaledit 
+\i (02:48:54) pick grid 414.7749 437.9710
+\t (02:48:54) last pick:  414.6550  438.1500
+\i (02:48:55) drag_start grid 412.2672 439.4338
+\i (02:48:55) move 
+\t (02:48:55) last pick:  412.1150  439.4200
+\t (02:48:55) Element has no origin, using pick.
+\t (02:48:55) Pick new location for the element(s).
+\i (02:48:56) roam x 16
+\i (02:48:56) drag_stop grid 499.5926 440.0607
+\i (02:48:56) generaledit 
+\i (02:48:57) pick grid 421.9583 439.5383
+\t (02:48:57) last pick:  422.2750  439.4200
+\i (02:48:58) pick grid 421.9583 440.0607
+\t (02:48:58) last pick:  422.2750  440.0550
+\i (02:48:58) pick grid 422.7942 442.0460
+\t (02:48:58) last pick:  422.9100  441.9600
+\i (02:48:58) pick grid 422.6897 443.2998
+\t (02:48:58) last pick:  422.9100  443.2300
+\i (02:49:00) drag_start grid 422.8987 440.0607
+\i (02:49:00) move 
+\t (02:49:00) last pick:  422.9100  440.0550
+\t (02:49:00) Element has no origin, using pick.
+\t (02:49:00) Pick new location for the element(s).
+\i (02:49:00) zoom out 1 
+\i (02:49:00) setwindow pcb
+\i (02:49:00) zoom out 468.9777 431.4927
+\i (02:49:00) trapsize 10449
+\i (02:49:01) drag_stop grid 470.4405 431.2838
+\i (02:49:01) generaledit 
+\i (02:49:02) undo 
+\i (02:49:02) trapsize 5224
+\i (02:49:02) generaledit 
+\i (02:49:03) zoom in 1 
+\i (02:49:03) setwindow pcb
+\i (02:49:03) zoom in 419.7641 433.5825
+\i (02:49:03) trapsize 2612
+\i (02:49:03) zoom out 1 
+\i (02:49:03) setwindow pcb
+\i (02:49:03) zoom out 419.1372 435.3065
+\i (02:49:03) trapsize 5224
+\i (02:49:03) pick grid 418.1968 437.1874
+\t (02:49:03) last pick:  418.4650  436.8800
+\i (02:49:05) drag_start grid 417.8834 439.4861
+\i (02:49:05) move 
+\t (02:49:05) last pick:  417.8300  439.4200
+\t (02:49:05) Element has no origin, using pick.
+\t (02:49:05) Pick new location for the element(s).
+\i (02:49:06) zoom out 1 
+\i (02:49:06) setwindow pcb
+\i (02:49:06) zoom out 493.6368 434.2617
+\i (02:49:06) trapsize 10449
+\i (02:49:07) drag_stop grid 326.0388 438.6502
+\i (02:49:07) generaledit 
+\i (02:49:08) pick grid 404.8225 446.5913
+\t (02:49:08) last pick:  405.1300  446.4050
+\i (02:49:08) zoom in 1 
+\i (02:49:08) setwindow pcb
+\i (02:49:08) zoom in 382.0442 427.7835
+\i (02:49:08) trapsize 5224
+\i (02:49:09) zoom in 1 
+\i (02:49:09) setwindow pcb
+\i (02:49:09) zoom in 371.9089 421.9322
+\i (02:49:09) trapsize 2612
+\i (02:49:11) pick grid 360.1018 419.3723
+\t (02:49:11) last pick:  360.0450  419.1000
+\i (02:49:11) prepopup 360.1018 419.3723
+\i (02:49:13) pop dyn_option_select '@:@Change Width...' 
+\i (02:49:13) change width 
+\i (02:49:14) setwindow form.chgwidth
+\i (02:49:14) FORM chgwidth cancel  
+\i (02:49:14) setwindow pcb
+\i (02:49:14) generaledit 
+\i (02:49:15) zoom out 1 
+\i (02:49:15) setwindow pcb
+\i (02:49:15) zoom out 370.6028 415.8719
+\i (02:49:15) trapsize 5224
+\i (02:49:16) zoom in 1 
+\i (02:49:16) setwindow pcb
+\i (02:49:16) zoom in 377.7080 378.8833
+\i (02:49:16) trapsize 2612
+\i (02:49:16) zoom in 1 
+\i (02:49:16) setwindow pcb
+\i (02:49:16) zoom in 377.7080 378.8833
+\i (02:49:16) trapsize 1306
+\i (02:49:16) zoom in 1 
+\i (02:49:16) setwindow pcb
+\i (02:49:16) zoom in 377.7080 378.8833
+\i (02:49:16) trapsize 653
+\i (02:49:18) zoom out 1 
+\i (02:49:18) setwindow pcb
+\i (02:49:18) zoom out 377.8647 379.0793
+\i (02:49:18) trapsize 1306
+\i (02:49:18) zoom out 1 
+\i (02:49:18) setwindow pcb
+\i (02:49:18) zoom out 377.8647 379.0792
+\i (02:49:18) trapsize 2612
+\i (02:49:18) roam start
+\i (02:49:18) roam x -16
+\i (02:49:18) roam y -48
+\i (02:49:19) roam y -16
+\i (02:49:19) roam y 16
+\i (02:49:19) roam y 64
+\i (02:49:19) roam x 16
+\i (02:49:19) roam y 48
+\i (02:49:19) roam x 16
+\i (02:49:19) roam y 64
+\i (02:49:19) roam y 32
+\i (02:49:19) roam y 32
+\i (02:49:19) roam end
+\i (02:49:22) zoom out 1 
+\i (02:49:22) setwindow pcb
+\i (02:49:22) zoom out 380.3722 369.8189
+\i (02:49:22) trapsize 5224
+\i (02:49:22) zoom out 1 
+\i (02:49:22) setwindow pcb
+\i (02:49:22) zoom out 383.2979 371.1773
+\i (02:49:22) trapsize 10449
+\i (02:49:23) pick grid 354.2503 453.5140
+\t (02:49:23) last pick:  354.3300  453.3900
+\i (02:49:24) undo 
+\i (02:49:24) trapsize 2612
+\i (02:49:24) generaledit 
+\i (02:49:24) undo 
+\i (02:49:24) trapsize 5224
+\i (02:49:24) generaledit 
+\i (02:49:25) undo 
+\i (02:49:25) trapsize 5224
+\i (02:49:25) generaledit 
+\i (02:49:25) pick grid 448.5243 423.3427
+\t (02:49:25) last pick:  448.3100  423.5450
+\i (02:49:48) pick grid 335.7823 431.0748
+\t (02:49:48) last pick:  335.9150  431.1650
+\i (02:50:50) add text 
+\t (02:50:50) Pick text location.
+\i (02:50:52) prepopup 331.8117 426.0594
+\i (02:50:53) cancel 
+\i (02:50:53) generaledit 
+\i (02:50:58) pick grid 378.0997 432.2242
+\t (02:50:58) last pick:  377.8250  432.4350
+\i (02:51:13) pick grid 382.9061 432.8511
+\t (02:51:13) last pick:  382.9050  433.0700
+\i (02:53:07) plot 
+\i (02:54:26) plot setup 
+\i (02:54:29) setwindow form.fpfileplotsetup
+\i (02:54:29) FORM fpfileplotsetup windows  
+\i (02:54:30) FORM fpfileplotsetup general  
+\i (02:54:32) FORM fpfileplotsetup cancel  
+\i (02:54:32) setwindow pcb
+\i (02:54:32) generaledit 
+\i (02:54:53) specctra_out 
+\i (02:54:55) setwindow form.spif_out
+\i (02:54:55) FORM spif_out close  
+\i (02:54:55) setwindow pcb
+\i (02:54:55) generaledit 
+\i (02:55:57) artwork 
+\i (02:56:04) setwindow form.film_control
+\i (02:56:04) FORM film_control load  
+\i (02:56:06) fillin "menu_cancel"
+\i (02:56:07) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (02:56:07) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (02:56:07) FORM film_control filmtree  TOP 
+\i (02:56:15) FORM film_control general_parameters  
+\i (02:56:26) FORM film_control film_control  
+\i (02:56:28) FORM film_control select_all  
+\i (02:56:33) FORM film_control create  
+\t (02:56:33) Checking db records
+\t (02:56:33)     checking for orphans...
+\t (02:56:33)     Checked 100 percent
+\t (02:56:33) Done dbdoctor.
+\t (02:56:34) Starting Create artwork films...
+\t (02:56:35) Plot generated.
+\i (02:56:45) FORM film_control general_parameters  
+\i (02:56:51) FORM film_control viewlog  
+\i (02:57:12) setwindow text
+\i (02:57:12) close 
+\i (02:57:48) setwindow form.film_control
+\i (02:57:48) FORM film_control film_control  
+\i (02:57:49) FORM film_control filmtree  ETCH/TOP TOP 
+\i (02:57:50) FORM film_control filmtree popup Add ETCH/TOP TOP 
+\i (02:58:02) setwindow form.scl_browser
+\i (02:58:02) FORM scl_browser cancel  
+\i (02:58:06) setwindow form.film_control
+\i (02:58:06) FORM film_control load  
+\i (02:58:13) fillin "menu_cancel"
+\i (02:58:14) FORM film_control load  
+\i (02:58:15) fillin "menu_cancel"
+\i (02:58:17) FORM film_control select_all  
+\i (02:58:18) FORM film_control create  
+\t (02:58:18) Starting Create artwork films...
+\t (02:58:20) Plot generated.
+\i (02:58:41) FORM film_control cancel  
+\i (02:58:41) setwindow pcb
+\i (02:58:41) generaledit 
+\i (02:58:42) zoom out 1 
+\i (02:58:42) setwindow pcb
+\i (02:58:42) zoom out 389.2799 412.9984
+\i (02:58:42) trapsize 10449
+\i (02:58:42) zoom in 1 
+\i (02:58:42) setwindow pcb
+\i (02:58:42) zoom in 389.9068 408.7934
+\i (02:58:42) trapsize 5224
+\i (02:58:47) color192 
+\i (02:58:47) setwindow cvf.dialog
+\i (02:58:47) cvf layer_mode
+\i (02:58:47) setwindow pcb
+\i (02:58:47) generaledit 
+\i (02:58:51) setwindow cvf.dialog
+\i (02:58:51) cvf layers_visible stack-up via/top FALSE
+\i (02:58:53) cvf apply
+\i (02:58:55) cvf layers_visible stack-up via/top TRUE
+\i (02:59:08) cvf apply
+\i (02:59:15) cvf layers_visible stack-up pin/bottom FALSE
+\i (02:59:17) cvf apply
+\i (02:59:19) cvf layers_visible stack-up pin/bottom TRUE
+\i (02:59:20) cvf apply
+\i (02:59:44) cvf cancel
+\i (03:00:01) setwindow pcb
+\i (03:00:01) color192 
+\i (03:00:01) setwindow cvf.dialog
+\i (03:00:01) cvf layer_mode
+\i (03:00:01) setwindow pcb
+\i (03:00:01) generaledit 
+\i (03:00:10) setwindow cvf.dialog
+\i (03:00:10) cvf layer_tree_item 'Display'
+\i (03:00:11) cvf layer_tree_item 'Stack-Up'
+\i (03:00:11) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (03:00:14) cvf layer_tree_item 'Etch' 'Conductor'
+\i (03:00:15) cvf layers_visible stack-up etch/top FALSE
+\i (03:00:17) cvf okay
+\i (03:00:18) setwindow pcb
+\i (03:00:18) zoom in 1 
+\i (03:00:18) setwindow pcb
+\i (03:00:18) zoom in 401.4005 386.4330
+\i (03:00:18) trapsize 2612
+\i (03:00:19) zoom out 1 
+\i (03:00:19) setwindow pcb
+\i (03:00:19) zoom out 401.4005 386.4331
+\i (03:00:19) trapsize 5224
+\i (03:00:19) pick grid 447.3750 392.1799
+\t (03:00:19) last pick:  447.6750  392.4300
+\i (03:00:31) color192 
+\i (03:00:31) setwindow cvf.dialog
+\i (03:00:31) cvf layer_mode
+\i (03:00:31) setwindow pcb
+\i (03:00:31) generaledit 
+\i (03:00:33) setwindow cvf.dialog
+\i (03:00:33) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (03:00:35) cvf layer_tree_item 'Etch' 'Conductor'
+\i (03:00:36) cvf layers_visible stack-up etch/bottom FALSE
+\i (03:00:37) cvf layers_visible stack-up etch/top TRUE
+\i (03:00:38) cvf okay
+\i (03:00:38) setwindow pcb
+\i (03:00:38) pick grid 449.4648 386.7465
+\t (03:00:38) last pick:  449.5800  386.7150
+\i (03:02:05) pick grid 453.1218 381.3132
+\t (03:02:05) last pick:  453.3900  381.0000
+\i (03:02:06) undo 
+\i (03:02:06) generaledit 
+\i (03:02:08) color192 
+\i (03:02:08) setwindow cvf.dialog
+\i (03:02:08) cvf layer_mode
+\i (03:02:08) setwindow pcb
+\i (03:02:08) generaledit 
+\i (03:02:12) setwindow cvf.dialog
+\i (03:02:12) cvf layer_tree_item 'Etch' 'Conductor'
+\i (03:02:13) cvf layers_visible stack-up etch/bottom TRUE
+\i (03:02:14) cvf okay
+\i (03:02:15) setwindow pcb
+\i (03:02:15) pick grid 449.0468 381.9401
+\t (03:02:15) last pick:  448.9450  381.6350
+\i (03:02:15) save 
+\i (03:02:16) fillin yes 
+\i (03:02:16) generaledit 
+\i (03:02:17) exit 
+\t (03:02:18)     Journal end - Mon Jun 09 18:04:54 2025

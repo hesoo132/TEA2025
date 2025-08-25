@@ -1,0 +1,112 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : TEA2025.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jun 09 18:00:54 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/hesue/Desktop/컴퓨터를 이용한 회로 설계 15주차 과제 TEA2025 PCB 전자공학과 20201435 최희수/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (422.2750 361.9500)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.60020                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  OBLONG     2.81610     x 1.40790       0.000 NO     DARK 
+  OBLONG     2.84480     x 1.42240      90.000 NO     DARK 
+  OBLONG     4.00000     x 2.00000       0.000 NO     DARK 
+  OBLONG     4.00000     x 2.00000      90.000 NO     DARK 
+  OBLONG     4.40000     x 2.19990       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/hesue/Desktop/컴퓨터를 이용한 회로 설계 15주차 과제 TEA2025 PCB 전자공학과 20201435 최희수/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.60020                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  OBLONG     2.81610     x 1.40790       0.000 NO     DARK 
+  OBLONG     2.84480     x 1.42240      90.000 NO     DARK 
+  OBLONG     4.00000     x 2.00000       0.000 NO     DARK 
+  OBLONG     4.00000     x 2.00000      90.000 NO     DARK 
+  OBLONG     4.40000     x 2.19990       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created.
+
+ ARTWORK finished
