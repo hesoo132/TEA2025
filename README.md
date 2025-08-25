@@ -2,8 +2,7 @@
 
 ## 🔎 Overview
 This project implements a **stereo audio amplifier circuit** based on the **TEA2025 IC**.  
-The amplifier takes low-level audio signals (e.g., from a smartphone or MP3 player) and boosts them to drive external speakers.  
-It was designed and simulated as part of the course **“컴퓨터를 이용한 회로 설계”**, showcasing practical analog circuit design skills.
+The amplifier takes low-level audio signals (e.g., from a smartphone or MP3 player) and boosts them to drive external speakers. 
 
 ---
 
